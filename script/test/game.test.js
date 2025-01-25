@@ -1,3 +1,6 @@
+/**
+ * @jest-environment jsdom
+ */
 
 const { game } = require("../game");
 
